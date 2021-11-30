@@ -2,8 +2,14 @@
 
 approvers:
   - rubinus
+  - yuluxs007
+  - HirazawaUi
+  - afocuser
 reviewers:
   - rubinus
+  - yuluxs007
+  - HirazawaUi
+  - afocuser
 labels:
   - area/prow
 
