@@ -5,11 +5,13 @@ approvers:
   - yuluxs007
   - HirazawaUi
   - afocuser
+  - xkfen
 reviewers:
   - rubinus
   - yuluxs007
   - HirazawaUi
   - afocuser
+  - xkfen
 labels:
   - area/prow
 
